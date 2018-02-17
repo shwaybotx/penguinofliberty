@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=Penguin of Liberty
+Description=An animated sddm theme
+Author=penguinofliberty
+Copyright=(c) 2018, penguinofliberty
+License=GPLv3
+Type=sddm-theme
+Version=1.2A
+Website=https://github.com/penguinofliberty
+Screenshot=screenshot.jpg
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=shwaybotx@gmail.com
+Theme-Id=penguinofliberty
+Theme-API=2.0
