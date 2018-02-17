@@ -1,5 +1,6 @@
 /***************************************************************************
 * Copyright (c) 2017 Hüseyin ERDEM <rootofarch@gmail.com>
+* Additional modifications 2018 by Wayne Boyd <rationalthinking101.com>
 *
 * Permission is hereby granted, free of charge, to any person
 * obtaining a copy of this software and associated documentation
@@ -58,12 +59,11 @@ Rectangle {
             source: "background.png"
             fillMode: Image.PreserveAspectCrop
         }
-        /********* Audio *****************************************/
-        /**** Royalty free sound mix with kdenlive and ffmpeg ****/
+        /********* Audio *********/
         Audio {
             id: musicPlayer
             autoLoad: true
-            source: "resources/penguin-of-liberty.ogg"
+            source: "resources/pol.ogg"
             loops: -1
         }
         /********* Particles *********/

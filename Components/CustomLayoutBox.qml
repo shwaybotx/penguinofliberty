@@ -1,5 +1,6 @@
 /***************************************************************************
 * Copyright (c) 2013 Nikita Mikhaylov <nslqqq@gmail.com>
+* Modifications by Wayne Boyd (2018) <rationalthinking101.com>
 * 
 * Permission is hereby granted, free of charge, to any person
 * obtaining a copy of this software and associated documentation
