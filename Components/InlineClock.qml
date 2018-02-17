@@ -16,7 +16,7 @@ Text {
     anchors.verticalCenter: parent.verticalCenter
     verticalAlignment: Text.AlignVCenter
 
-    text: Qt.formatTime(clock.dateTime, "H:mm")
+    text: Qt.formatTime(clock.dateTime, "hh:mm:ss")
 
     font: clock.font
 }
