@@ -18,6 +18,15 @@ To install, copy the extracted directory with this command.
 
     sddm-greeter --test --theme /usr/share/sddm/themes/penguin-of-liberty
 
+# Select as your SDDM theme
+
+To select your new theme for login and logout screens, open your KDM menu and search for <code>login screen</code>. Open 
+Login Screen (SDDM) manager. Under themes on the left of the screen, scroll down to "Penguin of Liberty" and click it. You will need to enter your password.
+
+# Logout
+
+By either starting the computer, rebooting or logging out you will come to the SDDM greeter. Enjoy your new SDDM theme!
+
 # You can change the files
 
 Logo:
