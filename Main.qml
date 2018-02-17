@@ -63,7 +63,7 @@ Rectangle {
         Audio {
             id: musicPlayer
             autoLoad: true
-            source: "resources/penguin-in-nyc.ogg"
+            source: "resources/penguin-of-liberty.ogg"
             loops: -1
         }
         /********* Particles *********/
