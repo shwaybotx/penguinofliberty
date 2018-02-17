@@ -25,7 +25,7 @@ Login Screen (SDDM) manager. Under themes on the left of the screen, scroll down
 
 # Logout
 
-By either starting the computer, rebooting or logging out you will come to the SDDM greeter. Enjoy your new SDDM theme!
+By either starting the computer, rebooting (if you have auto-login disabled) or logging out from your desktop you will come to the SDDM greeter. Enjoy your new SDDM theme!
 
 # You can change the files
 
