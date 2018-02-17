@@ -1,6 +1,6 @@
 # Penguin-of-Liberty theme
 
-An animated sddm theme with mood music and penguin sounds
+This is an animated sddm theme with mood music and penguin sounds
 
 # Installation
 
