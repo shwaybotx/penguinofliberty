@@ -1,6 +1,5 @@
 /***************************************************************************
 * Copyright (c) 2017 Hüseyin ERDEM <rootofarch@gmail.com>
-* Additional modifications 2018 by Wayne Boyd <rationalthinking101.com>
 *
 * Permission is hereby granted, free of charge, to any person
 * obtaining a copy of this software and associated documentation
@@ -59,11 +58,12 @@ Rectangle {
             source: "background.png"
             fillMode: Image.PreserveAspectCrop
         }
-        /********* Audio *********/
+        /********* Audio *****************************************/
+        /**** Royalty free sound mix with kdenlive and ffmpeg ****/
         Audio {
             id: musicPlayer
             autoLoad: true
-            source: "resources/bgm.ogg"
+            source: "resources/penguin-in-nyc.ogg"
             loops: -1
         }
         /********* Particles *********/
