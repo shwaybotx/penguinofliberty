@@ -6,7 +6,7 @@ This is an animated sddm theme with mood music and penguin sounds
 
 Extract this to any temporary location. Then change permissions with this:
 
-    chmod 777 penguinofliberty-master
+    chmod 775 penguinofliberty-master
     
 # Installation
 
