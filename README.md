@@ -32,5 +32,5 @@ The background music:
     
 # Screenshot
     
-![screenshot](screenshot.jpg)
+[screenshot](screenshot.jpg)
 
