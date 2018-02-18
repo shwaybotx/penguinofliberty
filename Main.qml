@@ -82,7 +82,7 @@ Rectangle {
             endSize: 3
             startTime: 1000
             velocity: AngleDirection{
-                angle: 170
+                angle: 90
                 angleVariation: 30
                 magnitude: 40
                 magnitudeVariation: 20
@@ -117,7 +117,7 @@ Rectangle {
             anchors.top: parent.top
             anchors.topMargin: parent.height*0.24
             system: spiral
-            emitRate: 10
+            emitRate: 3
             lifeSpan: 3000
             lifeSpanVariation: 2000
             size: 20
@@ -125,10 +125,10 @@ Rectangle {
             endSize: 3
             startTime: 3000
             velocity: AngleDirection{
-                angle: 270
+                angle: 90
                 angleVariation: 20
                 magnitude: 80
-                magnitudeVariation: 40
+                magnitudeVariation: 80
             }
             ImageParticle {
                 anchors.fill: parent
