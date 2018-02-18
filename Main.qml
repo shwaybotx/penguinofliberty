@@ -122,13 +122,13 @@ Rectangle {
             lifeSpanVariation: 2000
             size: 20
             sizeVariation: 3
-            endSize: 3
+            endSize: 0
             startTime: 3000
             velocity: AngleDirection{
                 angle: 90
-                angleVariation: 20
-                magnitude: 80
-                magnitudeVariation: 80
+                angleVariation: 0
+                magnitude: 0
+                magnitudeVariation: 0
             }
             ImageParticle {
                 anchors.fill: parent
@@ -142,7 +142,7 @@ Rectangle {
                 y: -parent.width*0.2
                 anchors.bottom: parent.bottom
                 affectedParameter: Wander.Position
-                pace: 1000
+                pace: 10
                 xVariance: parent.width*2
             }
         }
