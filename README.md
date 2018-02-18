@@ -12,7 +12,7 @@ Extract this to any temporary location. Then change permissions with this:
 
 To install, copy the extracted directory with this command.
     
-    sudo cp -r ./penguinofloberty-master /usr/share/sddm/themes/
+    sudo cp -r ./penguinofliberty-master /usr/share/sddm/themes/
 
 # You can test it with
 
@@ -43,7 +43,7 @@ The particles:
     
 The background music:
 
-    resources/bgm.ogg
+    resources/pol.ogg
     
 # Screenshot
     
