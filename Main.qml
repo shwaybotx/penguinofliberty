@@ -74,10 +74,10 @@ Rectangle {
         Emitter {
             anchors.fill: parent
             system: bgparticle
-            emitRate: 8
+            emitRate: 3
             lifeSpan: 4000
             lifeSpanVariation: 2000
-            size: 50
+            size: 75
             sizeVariation: 8
             endSize: 3
             startTime: 1000
@@ -116,11 +116,11 @@ Rectangle {
             width: parent.width*0.38
             anchors.top: parent.top
             anchors.topMargin: parent.height*0.24
-            system: plain
+            system: rotate
             emitRate: 3
             lifeSpan: 3000
             lifeSpanVariation: 2000
-            size: 20
+            size: 40
             sizeVariation: 3
             endSize: 0
             startTime: 3000
