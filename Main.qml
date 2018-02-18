@@ -82,7 +82,7 @@ Rectangle {
             endSize: 3
             startTime: 1000
             velocity: AngleDirection{
-                angle: 270
+                angle: 170
                 angleVariation: 30
                 magnitude: 40
                 magnitudeVariation: 20
