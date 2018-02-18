@@ -74,7 +74,7 @@ Rectangle {
         Emitter {
             anchors.fill: parent
             system: bgparticle
-            emitRate: 20
+            emitRate: 8
             lifeSpan: 4000
             lifeSpanVariation: 2000
             size: 50
@@ -105,7 +105,7 @@ Rectangle {
             }
         }
         ParticleSystem {
-            id: spiral
+            id: rotate
             paused: true
         }
         Emitter {
@@ -132,11 +132,11 @@ Rectangle {
             }
             ImageParticle {
                 anchors.fill: parent
-                system: spiral
+                system: rotate
                 source: "resources/lightparticle.png"
             }
             Wander{
-                system: spiral
+                system: rotate
                 height: parent.height
                 width: parent.width
                 y: -parent.width*0.2
