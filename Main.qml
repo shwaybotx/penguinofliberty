@@ -77,7 +77,7 @@ Rectangle {
             emitRate: 3
             lifeSpan: 4000
             lifeSpanVariation: 2000
-            size: 75
+            size: 125
             sizeVariation: 8
             endSize: 3
             startTime: 1000
@@ -120,7 +120,7 @@ Rectangle {
             emitRate: 3
             lifeSpan: 3000
             lifeSpanVariation: 2000
-            size: 40
+            size: 90
             sizeVariation: 3
             endSize: 0
             startTime: 3000
