@@ -116,7 +116,7 @@ Rectangle {
             width: parent.width*0.38
             anchors.top: parent.top
             anchors.topMargin: parent.height*0.24
-            system: spiral
+            system: plain
             emitRate: 3
             lifeSpan: 3000
             lifeSpanVariation: 2000
