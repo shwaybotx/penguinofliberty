@@ -77,7 +77,7 @@ Rectangle {
             emitRate: 20
             lifeSpan: 4000
             lifeSpanVariation: 2000
-            size: 15
+            size: 50
             sizeVariation: 8
             endSize: 3
             startTime: 1000
