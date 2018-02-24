@@ -1,6 +1,6 @@
-# Penguin-of-Liberty theme version 1.51
+# Penguin-of-Liberty theme version 1.52
 
-This is an animated sddm theme with mood music and penguin sounds
+This is an animated sddm theme with mood music, city and penguin sounds with dark humor
 
 # Extract and Change Permission
 
