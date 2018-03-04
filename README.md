@@ -1,6 +1,6 @@
 # Penguin-of-Liberty theme version 1.52
 
-This is an animated sddm theme with mood music, city and penguin sounds with dark humor
+This is an animated sddm theme with mood music, city and penguin sounds with dark humor. In the background image there is an image of the statue of liberty turned penguin, with a penguin login officer asking for a password. The sound track that plays in the background has sounds like ocean waves, gun shots, emergency vehicles and other city sounds.
 
 # Extract and Change Permission
 
