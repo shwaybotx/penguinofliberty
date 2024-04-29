@@ -28,7 +28,11 @@ To install, copy the extracted directory with this command.
 
     sddm-greeter --test --theme /usr/share/sddm/themes/penguin-of-liberty
 
+Lately, I've been getting errors at this point. I haven't fooled with this code for years, literally. I don't get on Github very much. I am working to fix it.
+
 # Select as your SDDM theme
+
+In KDE Plasma 5 or 6, click on Settings and searh for SDDM, the Login Screen settings. In there you will now see Penguin of Liberty as one of the options. Select it and click "Apply" at the bottom of the Login Screen (SDDM) System Settings. You will be prompted to enter your password.
 
 To select your new theme for login and logout screens, open your KDM menu and search for <code>login screen</code>. Open 
 Login Screen (SDDM) manager. Under themes on the left of the screen, scroll down to "Penguin of Liberty" and click it. You will need to enter your password.
