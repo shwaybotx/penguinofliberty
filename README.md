@@ -10,9 +10,11 @@ Download the *.zip file and move it into any temporary directory on your linux c
 
 This command will extract the contents of the zip file into the current directory. If you want to extract the files into a specific directory, you can specify the directory with the -d option, like this:
 
+    unzip penguinofliberty-master.zip -d /path/to/destination
 
+Replace /path/to/destination with the path where you want the files to be extracted. If the directory does not exist, unzip will create it for you.
 
-Extract this to any temporary location. Then change permissions with this:
+Change into the directory where the extracted file exists. Then change permissions with this:
 
     chmod -R 775 penguinofliberty-master
     
