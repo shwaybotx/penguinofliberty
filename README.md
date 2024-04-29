@@ -2,7 +2,15 @@
 
 This is an animated sddm theme with mood music, city and penguin sounds with dark humor. In the background image there is an image of the statue of liberty turned penguin, with a penguin login officer asking for a password. The sound track that plays in the background has sounds like ocean waves, gun shots, emergency vehicles and other city sounds.
 
-# Extract and Change Permission
+# Download, Extract and Change Permission
+
+Download the *.zip file and move it into any temporary directory on your linux computer. Once you have completed that, unzip it with this command:
+
+    unzip penguinofliberty-master.zip
+
+This command will extract the contents of the zip file into the current directory. If you want to extract the files into a specific directory, you can specify the directory with the -d option, like this:
+
+
 
 Extract this to any temporary location. Then change permissions with this:
 
