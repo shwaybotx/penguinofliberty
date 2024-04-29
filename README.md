@@ -14,7 +14,7 @@ This command will extract the contents of the zip file into the current director
 
 Replace /path/to/destination with the path where you want the files to be extracted. If the directory does not exist, unzip will create it for you.
 
-Change into the directory where the extracted file exists. Then change permissions with this:
+Make sure you are in the temporary folder where penquinofliberty-master.zip exists and change permissions with this command:
 
     chmod -R 775 penguinofliberty-master
     
